@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Geminicord",
+  "description": "A feature-rich Discord clone powered by Gemini AI, featuring smart channel summaries, AI-assisted chat, and real-time text-to-speech messaging.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
